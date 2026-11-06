@@ -1,0 +1,13 @@
+{
+  "name": "freecore-mind",
+  "version": "1.0.0",
+  "description": "FreeCore-Mind: Lightweight Autonomous Agent with CoreNyan Persona & Skills",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "marked": "^18.1.1"
+  }
+}

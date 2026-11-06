@@ -1,0 +1,14 @@
+[
+  {
+    "id": "provider-xxx
+    "name": "xxx 中转站",
+    "baseURL": "",
+    "apiKey": "",
+    "models": [
+      {
+        "id": "",
+        "name": ""
+      }
+    ]
+  }
+]

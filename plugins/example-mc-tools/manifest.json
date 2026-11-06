@@ -1,0 +1,8 @@
+{
+  "id": "example-mc-tools",
+  "name": "Minecraft 运维扩展包",
+  "version": "1.0.0",
+  "description": "为小可注入游戏端特定辅助运维与性能采样指令工具",
+  "main": "index.js",
+  "enabled": true
+}

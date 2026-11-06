@@ -1,0 +1,19 @@
+{
+  "server": {
+    "port": 25999,
+    "host": "0.0.0.0"
+  },
+  "llm": {
+    "baseURL": "",
+    "apiKey": "",
+    "model": "",
+    "temperature": 0.7,
+    "maxTokens": 4096
+  },
+  "paths": {
+    "memoryVault": "C:\\MCSManager\\daemon\\data\\InstanceData\\FreeCore-CoreNyan\\memory-vault",
+    "skills": "C:\\MCSManager\\daemon\\data\\InstanceData\\FreeCore-CoreNyan\\skills",
+    "workspace": "C:\\",
+    "sessions": "C:\\MCSManager\\daemon\\data\\InstanceData\\FreeCore-Mind\\data\\sessions"
+  }
+}

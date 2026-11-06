@@ -1,0 +1,15 @@
+{
+  "appName": "CoreNyan",
+  "appAvatar": "assets/CoreNyan.png",
+  "userName": "LynnH",
+  "userAvatar": "assets/doodle/doodle_1.png",
+  "userColor": "#6bceff",
+  "userBubbleBg": "#1f1b29",
+  "agentName": "CoreNyan",
+  "agentAvatar": "assets/CoreNyan.png",
+  "agentColor": "#ff80fb",
+  "agentBubbleBg": "#161b22",
+  "appBg": "#0d1117",
+  "sidebarBg": "#090d13",
+  "sendKey": "enter"
+}
